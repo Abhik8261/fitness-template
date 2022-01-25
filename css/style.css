@@ -1,0 +1,351 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+}
+.navbar{
+    list-style: none;
+    margin-top: 5vh;
+    margin-left: 06vh;
+}
+.navbar ul{
+    display: flex;
+    margin-left: 2vh;
+}
+.navbar li{
+    list-style: none;
+    display: flex;
+    
+}
+.nav{
+    display: flex;
+    padding-right: 20vh;
+    margin-left: auto;
+    align-items: center;
+}
+.nav-1{
+    display: flex;
+    padding: 3vh;
+     margin-left: auto;
+}
+#navbarbutton{
+    width: 100%;
+    height: 10vh;
+    
+    
+}
+.imagebackground{
+    
+    height: 70vmax;
+    width: 99%;
+    background: url(../images/6315-min.jpg)no-repeat;
+    background-size: contain;
+    position: absolute;
+}
+.container{
+  font-style: italic;
+   width: 100%;
+   height: 300px;
+   display: flex;
+   justify-content: space-evenly;
+   margin-top: 41vmax;
+}
+.containeritems{
+    
+    background: black;
+    color: white;
+    margin: 10px;
+    padding: 0px;
+}
+.containeritems h6{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 5vmax;
+}
+.containeritems p{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: x-large;
+    padding-top: 3vmax;
+}
+.containeritems a{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: x-large;
+    color: white;
+}
+#first{
+    background: rgb(102, 5, 5);
+}
+#second{
+    background: rgb(56, 119, 139);
+}
+#third{
+    background: rgb(240, 132, 8);
+}
+.container1{
+    
+    display: flex;
+    flex-direction: row;
+}
+.containeritems1{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+flex-direction: column;
+
+width: 47vmax;
+margin-top: 12vmax;
+
+}
+#shoe{
+    margin-left: 03vmax;
+    width: 06vmax;
+
+}
+#she{
+    margin-left: 02vmax;
+    width: 6vmax;
+
+}
+#clock{
+    margin-left: 3vmax;
+    width: 5vmax;
+
+}
+.containeritems1 h3{
+    display: flex;
+    margin: auto;
+    margin-top: -3vmax;
+     justify-content: center;
+     
+}
+.containeritems1 p{
+    display: flex;
+     flex-direction: column;
+     justify-content: center;
+     margin-top: 0vmax;
+     margin-left: 74px;
+   
+    
+   
+}
+#img1{
+    height: 74vmax;
+}
+.container2{
+    border: 2px solid red;
+    display: flex;
+    color: white;
+}
+.container2items{
+    border: 2px solid red;
+    height: 46vmax;
+    background: black;
+}
+#one{
+
+}
+#two{
+background: rgb(148, 80, 3);
+height: 10vmax;
+display: flex;
+flex-direction: column;
+}
+#three{
+background: rgb(69, 175, 207);
+height:10vmax;
+}
+#we{
+    color: black;
+
+}
+#clor{
+    color: rgb(69, 175, 207);
+    margin-left: 04vmax;
+    font-size: 15vmax;
+}
+#s{
+    display: flex;
+    justify-content: center;
+    font-size: 8vmax;
+}
+#the{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    margin-bottom: revert;
+}
+.container3{
+    background: url(../images/woman-g36d481402_1920.jpg)no-repeat;
+    width: 100%;
+    height: 65vmax;
+    /* position: absolute; */
+    margin: 5px;
+}
+.container3 p{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    font-size: xx-large;
+    margin-right: 02vmax;
+    margin-top: 36vmax;
+}
+.container3 h2{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-right: 10vmax;
+    margin-top: 2vmax;
+
+    font-size: xxx-large;
+}
+#tick{
+    color: rgb(69, 175, 207);
+    font-weight: 900;
+    font-size: xxx-large;
+}
+.container4{
+   
+    font-size: xx-large;
+    font-weight: 900;
+}
+#how{
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large;
+}
+.container5{
+  
+    display: flex;
+}
+
+.container5items{
+   
+    /* height: 50px; */
+    
+}
+.container5items button{
+    border: 2px solid white;
+    background: rgb(102, 5, 5);
+    
+    margin: 8vh 16vh;
+    padding: 1vmax 5vh;
+    color: white;
+}
+.container5items p{
+    
+}
+#imgbeach{
+    width: 100%;
+
+}
+#runninglady{
+    width: 100%;
+}
+#arrow{
+    font-size: x-large;
+}
+#one1{
+background: rgb(85, 42, 42);
+color: whitesmoke;
+font-weight: bolder;
+
+display: flex;
+flex-direction: column;
+
+
+}
+#two2{
+   
+    background: rgb(175, 89, 69);
+    
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: xx-large;
+    display: flex;
+    flex-direction: column;
+}
+#three3{
+    background: rgb(69, 175, 207);
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: xx-large;
+    display: flex;
+    flex-direction: column;
+}
+#back{
+    width: 100%;
+}
+#m{
+    font-size: small;
+    margin-top: 7vh;
+}
+#h{
+    font-size: xxx-large;
+}
+#p{
+    margin-top: 7vh;
+}
+.container6{
+    background: url(../images/photo-1572015653901-313e493edc82.jpg);
+   
+    height: 50vw;
+    width: 100%;
+    margin-top: 5vw;
+    background-color: black;
+
+}
+.container6heading{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 50vw;
+    width: 70%;
+    background-color: black;
+    margin-left: 12vw;
+    padding: 3vw 3vw 3vw 3vw;
+}
+.container6img{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+.container6p{
+    display: flex;
+    flex-direction: row;
+justify-content: space-evenly;
+font-size: xx-large;
+}
+.container6para{
+    display: flex;
+    flex-direction: row;
+justify-content: space-evenly;
+font-size: xx-large;
+}
+#s1{
+font-size: xxx-large;
+font-weight: bolder;
+}
+#s2{
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 3vmax;
+    margin-bottom: 3vmax;
+
+
+}
+.social{
+    display: flex;
+    justify-content: center;
+    background: black;
+    margin-top: 40px;
+}
+#lin{
+    width: 100%;
+    height: 30px;
+}
